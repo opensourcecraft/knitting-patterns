@@ -1,5 +1,6 @@
 How to contribute
 =======================
+OpenSourceCraft patterns and materials are licensed under a *[Creative Commons Attribution-ShareAlike 4.0](http://creativecommons.org/licenses/by-sa/4.0/)* license. 
 
 # Editing basics
 The Github [Fork & Pull workflow](https://help.github.com/articles/using-pull-requests) is used to accept and review changes.
@@ -9,7 +10,7 @@ Patterns should be written in [Markdown mark up language](https://help.github.co
 
 # Getting started and prerequisites
 
-For contributing to opensourcecraft you need the following:
+For contributing to OpenSourceCraft knitting patterns you need the following:
 
 * a [Github account](https://github.com)
 * in the case of complex edits familiarity with [Git command line basics](https://help.github.com/articles/set-up-git) or familiarity with an app ([Windows](https://windows.github.com/), [Mac](https://mac.github.com/)) to push your edits made on your computer to Github.
@@ -74,7 +75,7 @@ Example:
 
 # Making a pull request
 
-After you have finished your changes you need to create a [pull request](https://help.github.com/articles/using-pull-requests)  on Github. The opensourcecraft team will be notified about the pull request, review your changes, comment if necessary, and then *merge* your changes to the master version.
+After you have finished your changes you need to create a [pull request](https://help.github.com/articles/using-pull-requests)  on Github. The OpenSourceCraft team will be notified about the pull request, review your changes, comment if necessary, and then *merge* your changes to the master version.
 
 In your own repository on Github press *Compare & pull request*
 
