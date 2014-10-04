@@ -37,7 +37,7 @@ Knit 16 stitches.  With the smooth side of one crochet chain facing you, pick up
 
 Knit 8 rounds.
 
-Knit 16 body stitches, then slip the first 8 arm stitches.  Turn arm inside out, and using another piece of yarn and a third needle, 3-needle bind off 8 stitches from the outside of the arm in.  
+Knit 16 body stitches, then slip the first 8 arm stitches.  Turn arm inside out, and using another piece of yarn and a third needle, [3-needle bind off](http://www.purlbee.com/2013/09/03/3-needle-bind-off/) 8 stitches from the outside of the arm in.  
 
 Pick up yarn from body stitches again and continue in the round to knit the remaining 16 body stitches (if you have a gap where you start, pick up a stitch in the gap, twist it, and knit together with the first body stitch).  Repeat 3-needle bind off for other arm.
 
