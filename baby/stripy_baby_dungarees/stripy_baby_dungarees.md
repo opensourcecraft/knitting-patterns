@@ -1,7 +1,7 @@
 # STRIPY DUNGAREES
 by Becky Smith (@rebkwok)
 
-![Mou icon](images/baby_dungarees.jpg =x350)
+![baby_dungarees](https://raw.githubusercontent.com/opensourcecraft/knitting-patterns/master/baby/stripy_baby_dungarees/images/baby_dungarees.jpg)
 
 ## Sizes
 0-3m (3-6m, 6-12m, 12-18m, 18-24m)
