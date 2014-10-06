@@ -2,6 +2,8 @@ How to contribute
 =======================
 OpenSourceCraft patterns and materials are licensed under a *[Creative Commons Attribution-ShareAlike 4.0](http://creativecommons.org/licenses/by-sa/4.0/)* license. 
 
+*These guidelines are based on the Django Girls tutorial [https://github.com/DjangoGirls/tutorial](https://github.com/DjangoGirls/tutorial)*
+
 # Editing basics
 The Github [Fork & Pull workflow](https://help.github.com/articles/using-pull-requests) is used to accept and review changes.
 
