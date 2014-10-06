@@ -25,15 +25,28 @@ Patons UK 100% mercerised cotton DK, 210m / 230yds per 100g ball)
 
 Stripe pattern: 4 rows MC, 4 rows CC
 
-## Dimensions:
+## Dimensions
 
-| Size  | Inside leg (actual)  | Inside leg (to fit)* | Nape of neck to hips | Hips to crotch (actual) | Hips to crotch (to fit)  | Chest (actual)   | Chest (to fit)   |
-| ----  | ----- | -- | -- | --- | -- | ----|  -- |
-| 0-3M   | 4 ¼  | 5  | 8  | 4 ½ | 4  | 18  | 16  |
-| 3-6M   | 5 ¼  | 6  | 9  | 5 ½ | 5  | 19  | 17  |
-| 6-12M  | 6 ¼  | 7  |9.5 | 6 ½ | 6  | 20  | 18  |
-| 12-18M | 7 ¼  | 8  | 10 | 7 ½ | 7  | 21  | 19  |
-| 18-24M | 8 ¼  | 9  |10.5| 8 ½ | 8  | 22  | 20  |
+<table>
+<tr>
+<th>Size</th><th>Inside leg (actual)</th><th>Inside leg (to fit)*</th><th>Nape of neck to hips</th><th>Hips to crotch (actual)</th><th>Hips to crotch (to fit)</th><th>Chest (actual)<th>Chest (to fit) </th>
+</tr>
+<tr>
+<td>0-3M</td><td>4¼</td><td>5</td><td>8</td><td>4½</td><td>4</td><td>18</td><td>16</td>
+</tr>
+<tr>
+<td>3-6M</td><td>5¼</td><td>6</td><td>9</td><td>5½</td><td>5</td><td>19</td><td>17</td>
+</tr>
+<tr>
+<td>6-12M</td><td>6¼</td><td>7</td><td>9.5</td><td>6½</td><td>6</td><td>20</td><td>18</td>
+</tr>
+<tr>
+<td>12-18M</td><td>7¼</td><td>8</td><td>10</td><td>7½</td><td>7</td><td>21</td><td>19</td>
+</tr>
+<tr>
+<td>18-24M</td><td>8¼</td><td>9</td><td>10.5</td><td>8½</td><td>8</td><td>22</td><td>20</td>
+</tr>
+</table>
 
 *garment is worked with extra length in body so actual leg length of garment is shorter than body measurements
 
